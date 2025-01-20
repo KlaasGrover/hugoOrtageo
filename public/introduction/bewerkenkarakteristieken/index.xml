@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8. Kaartlaag bewerken: karakteristieken on Ortageo Qgis Handleiding</title>
-    <link>https://klaasgrover.github.io/hugoOrtageo/introduction/bewerkenkarakteristieken/</link>
+    <link>http://localhost:1313/hugoOrtageo/introduction/bewerkenkarakteristieken/</link>
     <description>Recent content in 8. Kaartlaag bewerken: karakteristieken on Ortageo Qgis Handleiding</description>
     <generator>Hugo</generator>
     <language>nl-NL</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://klaasgrover.github.io/hugoOrtageo/introduction/bewerkenkarakteristieken/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugoOrtageo/introduction/bewerkenkarakteristieken/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

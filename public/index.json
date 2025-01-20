@@ -1,153 +1,153 @@
 [{
     "section": "",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/",
     "title": "QGIS Handleiding - Beknopt",
     "description": "Deze sectie geeft een overzicht van MapGallery, de achtergrond en wat het voor je kan doen.",
     "searchKeyword": "",
     "content": "\rWelkom bij de QGIS handleiding van Ortageo! Deze handleiding is ontworpen als een basisgids of \u0026lsquo;quickstart guide\u0026rsquo; om je snel op weg te helpen met de essentiële vaardigheden in QGIS. QGIS, of Quantum GIS, is een krachtige open-source geografische informatiesysteem (GIS) software waarmee je geografische gegevens kunt bekijken, bewerken en analyseren. Deze handleiding biedt een overzicht van de belangrijkste functies en workflows, zodat je snel en efficiënt aan de slag kunt met het maken van een boorplan. Voor verdere en diepere informatie kan je de uitgebreidere handleiding raadplegen.\nDoel van deze handleiding Het doel van deze handleiding is om je te helpen de basisvaardigheden van QGIS onder de knie te krijgen. Je leert hoe je:\nEen project aanmaakt en opslaat. Kaartlagen creëert en aanpast. Een boorplan maakt. Met deze kennis kun je eenvoudig starten met je GIS-projecten en de kracht van QGIS benutten voor je geografische analyses. Wat heb je nodig? Voor deze handleiding maken we gebruik van het ‘bodem’ sjabloon binnen QGIS. Dit sjabloon biedt een overzichtelijke en gebruiksvriendelijke interface waarmee je de basisfunctionaliteiten van QGIS kunt verkennen.\nHulp en ondersteuning Mocht je vragen hebben tijdens het doorlopen van deze handleiding, dan kun je terecht bij onze QGIS-experts: •\tJanwim (Gouda) •\tSander (Almelo)\nZij staan klaar om je te helpen met al je vragen over QGIS en je verder op weg te helpen.\nWe hopen dat deze handleiding je een goede start biedt in de wereld van QGIS en we wensen je veel succes met je geografische projecten!\n"
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/startscherm/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/startscherm/",
     "title": "1. Startscherm",
     "description": "",
     "searchKeyword": "",
     "content": "Bij het opstarten van QGIS krijg je het volgende scherm te zien. Hier kan je of een al opgeslagen project openen (2) of een nieuw project openen (3).\nTaakbalk: hier zijn alle extra functies te vinden. Recente projecten: Als je dubbel klikt op een project, dan wordt deze geopend. Ortageo sjablonen: Als je dubbel klikt op een sjabloon, dan wordt deze geopend. "
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/werkscherm/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/werkscherm/",
     "title": "2. Werkscherm",
     "description": "",
     "searchKeyword": "",
     "content": "Als je een QGIS project hebt geopend, dan krijg je het volgende scherm te zien.\nHier zitten alle extra opties, zoals kaartlagen toevoegen en attributen bewerken. Hier kan je de koppelingen naar kaartlagen zien die in het QGIS project bekend zijn. Je hebt hier de mogelijkheid om extra kaartlagen toe te voegen die niet in het sjabloon zitten. Hier kan je de lijst zien met alle kaartlagen die zijn ingeladen in het QGIS project. Door op de box te klikken voor de kaartlaag, kan je de kaartlaag zichtbaar maken of juist onzichtbaar. Als het vinkje in de box staat, staat de kaartlaag aan en als de box leeg is, dan staat de kaartlaag uit. Weergave van alle actieve kaartlagen Voor uitgebreidere informatie over het werkscherm en het opstarten van een Qgis project, zie hoofdstuk 1 in de uitbreidere handleiding.\n"
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/projectopslaan/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/projectopslaan/",
     "title": "3. Project opslaan",
     "description": "",
     "searchKeyword": "",
     "content": "Als je een nieuw QGIS project hebt aangemaakt, dan kan je deze op de volgende manier opslaan.\nIn de taakbalk klik op ‘project’, dan opent er een uitklapvenster. Klik vervolgens op ‘opslaan’ in het uitklapvenster. Er wordt een pop-up scherm geopend waar je kan kiezen waar je je jouw bestand opslaat. Binnen Ortageo hebben we de afspraak dat je het QGIS bestand onder jouw project opslaat in het mapje ‘GIS’. Bij bestandsnaam voer je het projectnummer in. Klik vervolgens op het knopje ‘opslaan’. "
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/locatietekenen/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/locatietekenen/",
     "title": "4. Projectlocatie tekenen",
     "description": "",
     "searchKeyword": "",
     "content": "\nAls eerst selecteer je de kaartlaag ‘Projectlocatie’.\nZet bewerken van de kaartlaag aan in de taakbalk (het potloodje).\nGeef aan dat je een nieuw gebied wil tekenen.\na.\tHet tekenen doe je door met je muis op de kaart te klikken. Met een klik op de rechtermuisknop laat je QGIS weten dat je weten dat je klaar bent met het tekenen.\nb.\tAls je klaar bent met het bewerken, dan kan je het bewerken van de kaartlaag uitzetten door nog een keer op het potloodje te klikken (2).\nc.\tSla de kaartlaag vervolgens op (Zie 7. Kaartlaag bewerken: geografisch). De onderzoekslocatie slaan wij op onder het mapje ‘Shape’ in het ‘GIS’-mapje en krijgt de naam ‘onderzoekslocatie’ of ‘projectlocatie’.\nVoor meer informatie over permanente en tijdelijke tekenlagen en vectorlagen zie hoofdstuk 2 en 3 in de uitgebreide handleiding.\nVoor het georefereren van de projectlocatie vanuit een afbeelding of PDF, zie hoofdstuk 5 van de uitgebreide handleiding.\n"
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/boorpunten/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/boorpunten/",
     "title": "5. Boorpunten tekenen",
     "description": "",
     "searchKeyword": "",
     "content": "\nSelecteer de kaartlaag (onderzoekspunten lokaal of geotechniek lokaal).\nZet bewerken van de kaartlaag aan in de taakbalk (het potloodje).\nKlik vervolgens op knopje 3 om aan te geven dat je een nieuw object wilt tekenen. Klik op de locatie op de kaart waar het onderzoekspunt geplaatst moet worden.\nVan ieder onderzoekspunt moet je aangeven wat de eigenschappen zijn (naam, type, diepte, etc.) en klik dan op ‘ok’.\na. Mocht een van de punten na het opslaan toch foutief zijn (bijvoorbeeld het is een ondiepe boring terwijl het een diepe boring had moeten zijn), dan kan je dit achteraf nog aanpassen. Zie 8. Kaartlaag bewerken: karakteristieken hiervoor.\nb. Mocht je een van de punten toch nog willen verplaatsen, blader dan naar 7. Kaartlaag bewerken: geografisch.\nAls je klaar bent met bewerken, dan kan je het bewerken van de kaartlaag uitzetten (2).\nSla vervolgens de kaartlaag op (zie 6. Datalaag opslaan). De kaartlaag wordt opgeslagen onder het mapje ‘Shape’ in de ‘GIS’-map van het project en krijgt de naam ‘onderzoekspunten’.\nMeer informatie en handigheden met betrekking tot het tekenen staan in hoofdstuk 3, 10 en 11 van de uitgebreide handleiding.\n"
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/datalaagopslaan/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/datalaagopslaan/",
     "title": "6. Datalaag opslaan",
     "description": "",
     "searchKeyword": "",
     "content": "\nKlik op het symbooltje achter de kaartlaagnaam. Er opent nu een pop-up menu. Bij indeling, selecteer ‘ESRI-shape gegevens’. Kies de bestandslocatie: map ‘GIS’ en dan de submap ‘shape’. Geef het bestand een naam. Klik op ‘OK’. De punten zijn nu opgeslagen als een ‘shapefile’. Meer informatie over permanente en tijdelijke tekenlagen is te vinden in hoofdstuk 3.2 van de uitgebreide handleiding.\n"
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/bewerkengeografisch/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/bewerkengeografisch/",
     "title": "7. Kaartlaag bewerken: geografisch",
     "description": "",
     "searchKeyword": "",
     "content": "\nSelecteer de kaartlaag die je wilt bewerken. Zet bewerken van de kaartlaag aan. Selecteer de optie voor het bewerken van de datalaag (i.p.v. een nieuwe toevoegen). Klik op het punt van het vlak dat je wilt wijzigen en verplaats deze naar de nieuwe locatie. Voor punten werkt dit hetzelfde. Als je klaar bent met het wijzigen, klik dan op ‘bewerkingen opslaan’. Nadat je klaar bent met het bewerken, zet het bewerken uit (2). Let op. Niet alle datalagen kan je bewerken (zie ook hoofdstuk 3 van de uitgebreide handleiding).\n"
   },{
     "section": "Introduction",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/introduction/bewerkenkarakteristieken/",
+    "url": "http://localhost:1313/hugoOrtageo/introduction/bewerkenkarakteristieken/",
     "title": "8. Kaartlaag bewerken: karakteristieken",
     "description": "",
     "searchKeyword": "",
     "content": "\nKlik met je rechtermuisknop op de kaartlaag. Er opent een menu. Selecteer ‘Attributentabel openen’. Er open nu een tabel waarin alle attributen van de datalaag in staan. Zet bewerken aan. Je kan nu op een cel klikken waarvan je de waarde wilt aanpassen. Nadat je je aanpassingen hebt gedaan, klik op opslaan. Als je klaar bent met bewerken, zet je het bewerken uit (3). De attributen tabel kan nu worden afgesloten. Meer informatie over de attributentabel is te vinden in hoofdstuk 3.3 van de uitgebreide handleiding.\n"
   },{
     "section": "",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/manual/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/",
     "title": "QGIS Handleiding - Compleet",
     "description": "Gebruikershandleiding met instructies en een toepassingsreferentie.",
     "searchKeyword": "",
     "content": "Welkom bij de uitgebreidere QGIS handleiding van Ortageo! Deze handleiding is ontworpen als een naslagwerk ten behoeve van je werkzaamheden in Qgis . QGIS, of Quantum GIS, is een krachtige open-source geografische informatiesysteem (GIS) software waarmee je geografische gegevens kunt bekijken, bewerken en analyseren. Deze handleiding biedt een overzicht van de belangrijkste functies en workflows, maar ook met achtergrondinformatie van de meest gebruikte functies en natuurlijk wat handigheden die je in je dagelijkse werkzaamheden kan gebruiken.\nDoel van deze handleiding Het doel van deze handleiding is om je te helpen om een diepere kennis te ontwikkelen van de mogelijkheden binnen Qgis. Deze uitgebreidere handleiding is een uitbreiding op de beknopte handleiding en is het makkelijkst toe te passen als je de beknopte handleiding al enkele keren hebt gebruikt.\nWat heb je nodig? Voor deze handleiding maken we gebruik van het \u0026rsquo;totaal\u0026rsquo; of ‘bodem’ sjabloon binnen QGIS. Dit sjabloon biedt een overzichtelijke en gebruiksvriendelijke interface waarmee je de basisfunctionaliteiten van QGIS kunt verkennen.\nHulp en ondersteuning Mocht je vragen, opmerkingen of tips hebben tijdens het doorlopen van deze handleiding, dan kun je terecht bij het team Qgis: •\tJanwim (Gouda) •\tSander (Almelo)\nZij staan klaar om je te helpen met al je vragen over QGIS en je verder op weg te helpen.\nWe hopen dat deze handleiding je verder helpt in de wereld van QGIS en we wensen je veel succes met je geografische projecten!\n"
   },{
     "section": "Manual",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/manual/navigate/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/navigate/",
     "title": "Kaartweergavefuncties",
     "description": "",
     "searchKeyword": "",
     "content": "Hoe gebruik je de kaartweergavefuncties? Zorg dat je de kaart open hebt staan. Zie: De applicatie Linksonder staan de knoppen van de volgende kaartweergave-functies: Klik op om in te zoomen op de kaart. Klik op om uit te zoomen op de kaart. Klik op om je gps-locatie op de kaart weer te geven. Tip\nHiervoor moet je de app via een gps-apparaat, zoals een smartphone of tablet, gebruiken en moet je toestemming geven om de gps-gegevens te delen met de app.\nKlik op om te schakelen tussen een 2D- en 3D-kaartweergave. Klik op om de kaart 180 graden te draaien. Klik op om de extra kaart- en exportopties weer te geven. "
   },{
     "section": "Manual",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/manual/navigate/keyboard/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/navigate/keyboard/",
     "title": "Keyboardbediening",
     "description": "",
     "searchKeyword": "",
     "content": "De kaartweergavefuncties gebruiken met keyboardbediening\nDruk op [+] om in te zoomen op de kaart. Druk op [-] om uit te zoomen op de kaart. Druk op [←] [↑] [→] [↓] om de kaart te verschuiven. Druk op [SHIFT] + [←] of [→] om de kaart te roteren. Druk op [SHIFT] + [↑] of [↓] om te wisselen tussen 2D- en 3D-weergave. "
   },{
     "section": "Manual",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/manual/navigate/mouse/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/navigate/mouse/",
     "title": "Muisbediening",
     "description": "",
     "searchKeyword": "",
     "content": "De kaartweergavefuncties gebruiken met muisbediening\nDruk de linkermuisknop in en sleep om de kaart te verschuiven. Draai aan het muiswiel om in of uit te zoomen. Tip\nHoud de SHIFT-toets ingedrukt terwijl je aan het muiswiel draait om nauwkeuriger in of uit te zoomen.\nDruk de rechtermuisknop in en sleep horizontaal om de kaart te draaien. Druk de rechtermuisknop in en sleep verticaal om te wisselen tussen 2D- en 3D-weergave "
   },{
     "section": "",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/",
     "title": "Markup help",
     "description": "Cras at dolor eget urna varius faucibus tempus in elit dolor sit amet.",
     "searchKeyword": "",
     "content": "\rMost of the documentation site are looks identical. Thats why we take an initiative to make something different and bring some new concept with minimal design. Meet Godocs , a documentation and knowledge based website template. It can be used for software, API, frameworks, plugins and templates online documentation website building.\n"
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/elements/child-1/",
     "title": "Child 1",
     "description": "",
     "searchKeyword": "",
     "content": "Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.\n"
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/child-2/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/elements/child-1/child-2/",
     "title": "Child 2",
     "description": "",
     "searchKeyword": "",
     "content": "Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.\n"
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/child-2/child-3/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/elements/child-1/child-2/child-3/",
     "title": "Child 3",
     "description": "",
     "searchKeyword": "",
     "content": "Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet\nEtiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.\n"
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/requirments/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/requirments/",
     "title": "Requirments",
     "description": "",
     "searchKeyword": "",
     "content": "Thanks to the simplicity of Hugo, this page is as empty as this theme needs requirements.\nJust download latest version of Hugo binary (\u0026gt; 0.60) for your OS (Windows, Linux, Mac) : it\u0026rsquo;s that simple.\n"
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/installation/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/installation/",
     "title": "Installation",
     "description": "",
     "searchKeyword": "",
     "content": "The following steps are here to help you initialize your new website. If you don\u0026rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.\nCreate your project Hugo provides a new command to create a new website.\nhugo new site \u0026lt;new_project\u0026gt; Install the theme Install the GoDocs theme by following this documentation\nThis theme\u0026rsquo;s repository is: https://github.com/themefisher/godocs.git\nAlternatively, you can download the theme as .zip file and extract it in the themes directory\nOr you can check this video documentation for installing this template: Basic configuration When building the website, you can set a theme by using --theme option. However, we suggest you modify the configuration file (config.toml) and set the theme as the default.\n# Change the default theme to be use when building the site with Hugo theme = \u0026#34;godocs\u0026#34; Create your first content pages Then, create content pages inside the previously created chapter. Here are two ways to create content in the chapter:\nhugo new installation/first-content.md\rhugo new installation/second-content/_index.md Feel free to edit thoses files by adding some sample content and replacing the title value in the beginning of the files.\nLaunching the website locally Launch by using the following command:\nhugo serve Go to http://localhost:1313\nBuild the website When your site is ready to deploy, run the following command:\nhugo A public folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.\nInfo\nThis website can be automatically published and hosted with Netlify (Read more about Automated HUGO deployments with Netlify). Alternatively, you can use Github pages\n"
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/configuration/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/configuration/",
     "title": "Configuration",
     "description": "",
     "searchKeyword": "",
     "content": "Global site parameters On top of Hugo global configuration, Dot lets you define the following parameters in your config.toml (here, values are default).\nNote that some of these parameters are explained in details in other sections of this documentation.\n# base URL place here baseURL = \u0026#34;https://examplesite.com\u0026#34; # this is your site title title = \u0026#34;Hugo documentation theme\u0026#34; # theme should be `godocs` theme = \u0026#34;godocs\u0026#34; # disable language from here disableLanguages = [\u0026#34;fr\u0026#34;] # now franch language is disabled # add css plugin [[params.plugins.css]] link = \u0026#34;define plugins path\u0026#34; # add js plugin [[params.plugins.js]] link = \u0026#34;define plugins path\u0026#34; # main menu [[menu.main]] name = \u0026#34;contact\u0026#34; url = \u0026#34;contact/\u0026#34; weight = 1 # Call to action is default enabled, if you want to disable it. just change the enable = false ####### Default parameters ########### [params] logo = \u0026#34;images/logo.png\u0026#34; # Meta data description = \u0026#34;This is meta description\u0026#34; author = \u0026#34;Themefisher\u0026#34; # contact form action contact_form_action = \u0026#34;#\u0026#34; # contact form works with https://formspree.io "
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/customization/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/customization/",
     "title": "Customization",
     "description": "",
     "searchKeyword": "",
     "content": "GoDocs has been built to be as configurable as possible.\nChange the logo In config.toml you will find a logo variable. you can change your logo there.\nlogo = \u0026#34;images/logo.png\u0026#34; Tip\nThe size of the logo will adapt automatically\nChange the favicon If your favicon is a png, just drop off your image in your local static/images/ folder and name it favicon.png\nIf you need to change this default behavior, create a new file in layouts/partials/ named head.html. Then write something like this:\n\u0026lt;link rel=\u0026#34;shortcut icon\u0026#34; href=\u0026#34;/images/favicon.png\u0026#34; type=\u0026#34;image/x-icon\u0026#34; /\u0026gt; Change default colors GoDocs support change color. You can change the colors from assets/scss/variables.scss. You can change the colors of the template as you want.\n/* Color Variables */ $color-primary: #FF0043; $text-color: #333; $text-dark: #222; $text-light: #999; $body-bg: #fff; $border-color: #E2E2E2; $black: #000; $white: #fff; $light: #FBFBFB; /* Font Variables */ $font-primary: \u0026#39;Montserrat\u0026#39;, sans-serif; $icon-font: \u0026#39;themify\u0026#39;; "
   },{
     "section": "Markup",
-    "url": "https://klaasgrover.github.io/hugoOrtageo/markup/elements/",
+    "url": "http://localhost:1313/hugoOrtageo/markup/elements/",
     "title": "Elements",
     "description": "",
     "searchKeyword": "",

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Child 2 on Ortageo Qgis Handleiding</title>
-    <link>https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/child-2/</link>
+    <link>http://localhost:1313/hugoOrtageo/markup/elements/child-1/child-2/</link>
     <description>Recent content in Child 2 on Ortageo Qgis Handleiding</description>
     <generator>Hugo</generator>
     <language>nl-NL</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/child-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugoOrtageo/markup/elements/child-1/child-2/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

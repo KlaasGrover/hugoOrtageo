@@ -15,7 +15,7 @@ draft: false
 
 	b.	Als je klaar bent met het bewerken, dan kan je het bewerken van de kaartlaag uitzetten door nog een keer op het potloodje te klikken (2).
 
-	c.	Sla de kaartlaag vervolgens op (Zie [7. Kaartlaag bewerken: geografisch](/introduction/Kaartlaagbewerkengeografisch)). De onderzoekslocatie slaan wij op onder het mapje ‘Shape’ in het ‘GIS’-mapje en krijgt de naam ‘onderzoekslocatie’ of ‘projectlocatie’.
+	c.	Sla de kaartlaag vervolgens op (Zie [7. Kaartlaag bewerken: geografisch](/hugoOrtageo/introduction/bewerkengeografisch)). De onderzoekslocatie slaan wij op onder het mapje ‘Shape’ in het ‘GIS’-mapje en krijgt de naam ‘onderzoekslocatie’ of ‘projectlocatie’.
 
 
 Voor meer informatie over permanente en tijdelijke tekenlagen en vectorlagen zie hoofdstuk 2 en 3 in de uitgebreide handleiding.
