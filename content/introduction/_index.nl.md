@@ -3,12 +3,11 @@ title: "QGIS Handleiding - Beknopt"
 date: 2018-12-29T11:02:05+06:00
 weight: 1
 icon: "fas fa-sliders-h" # fontawesome icon : https://fontawesome.com/icons
-description: "Deze sectie geeft een overzicht van MapGallery, de achtergrond en wat het voor je kan doen."
+description: " "
 # type dont remove or customize
 type : "docs"
 ---
 
-{{< image src="getting-started.jpg" alt="image" >}}
 
 Welkom bij de QGIS handleiding van Ortageo! Deze handleiding is ontworpen als een basisgids of 'quickstart guide' om je snel op weg te helpen met de essentiële vaardigheden in QGIS. QGIS, of Quantum GIS, is een krachtige open-source geografische informatiesysteem (GIS) software waarmee je geografische gegevens kunt bekijken, bewerken en analyseren. Deze handleiding biedt een overzicht van de belangrijkste functies en workflows, zodat je snel en efficiënt aan de slag kunt met het maken van een boorplan. Voor verdere en diepere informatie kan je de uitgebreidere handleiding raadplegen.
 

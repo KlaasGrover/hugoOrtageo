@@ -8,8 +8,8 @@ _build:
   list: never
 ---
 
-{{< faq "Will updates also be free?" >}}
-Lorem, [link](https://examplesite.com) _ipsum_ dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus.
+{{< faq "Wie is Klaas?" >}}
+Klaas is December 2024 in dienst gekomen bij [Grover Underdogs](https://www.grover.nl/) in Gouda als GIS specialist. Vanuit deze functie biedt hij Ortageo ondersteuning op het gebied van GIS gerelateerde vraagstukken. Zoals bijvoorbeeld aanpassingen en toevoegingen aan QGIS of het verder ontwikkelen van de QGIS handleiding.  
 {{</ faq >}}
 
 {{< faq "Discounts for students and Non Profit Organizations?" >}}
