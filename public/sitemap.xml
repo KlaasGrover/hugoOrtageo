@@ -2,79 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/startscherm/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/startscherm/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/werkscherm/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/werkscherm/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/child-2/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/elements/child-1/child-2/child-3/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/requirments/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/installation/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/manual/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/manual/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/projectopslaan/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/projectopslaan/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/configuration/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/locatietekenen/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/locatietekenen/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/customization/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/manual/navigate/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/manual/qgisbasis/</loc>
     <lastmod>2024-08-20T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/boorpunten/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/boorpunten/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/markup/elements/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/datalaagopslaan/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/datalaagopslaan/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/bewerkengeografisch/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/bewerkengeografisch/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/introduction/bewerkenkarakteristieken/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/introduction/bewerkenkarakteristieken/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
-  </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/</loc>
     <lastmod>2024-08-20T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/manual/navigate/keyboard/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/manual/qgisbasis/algemeen/</loc>
     <lastmod>2024-08-20T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/manual/navigate/mouse/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/manual/qgisbasis/sjablonen/</loc>
     <lastmod>2024-08-20T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/categories/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/manual/qgisbasis/sjablonen/instellen/</loc>
+    <lastmod>2024-08-20T11:02:05+06:00</lastmod>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/tags/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/categories/</loc>
   </url><url>
-    <loc>https://klaasgrover.github.io/hugoOrtageo/contact/</loc>
+    <loc>http://localhost:1313/hugoOrtageo/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugoOrtageo/contact/</loc>
   </url>
 </urlset>
