@@ -71,29 +71,246 @@
   },{
     "section": "Manual",
     "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/",
-    "title": "1. QGIS Basis",
+    "title": "1. QGIS BASIS",
     "description": "",
     "searchKeyword": "",
     "content": ""
   },{
     "section": "Manual",
-    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/algemeen/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.1algemenebeschrijving/",
+    "title": "3.1 Algemene beschrijving",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In QGIS kan je meerdere kaartlagen toevoegen of maken. De kaartlagen kan je linksonder (Figuur 17) in het scherm vinden. Door op het vakje voor de laagnaam te klikken kan je de lagen zichtbaar maken op de kaart of juist onzichtbaar.\nDe kaartlagen worden over elkaar gelegd op de kaart waarbij de bovenste kaartlaag in de kaartlagenlijst bovenop alle andere kaartlagen wordt weergeven en de kaartlaag onderaan de lijst wordt onder alle andere lagen geprojecteerd (daarom is dit ook vaak de achtergrondkaart).\nAls een kaartlaag niet zichtbaar is, maar wel aangevinkt staat, dan kan je deze laag naar boven slepen in de kaartlagenlijst. Dit doe je door de kaartlaag naar boven te slepen met de linkermuisknop en op de juiste locatie los te laten. Het toevoegen van een kaartlaag uit een ander GIS-bestand werkt ook zo (zie 11.11 Kaartlaag toevoegen vanuit een ander Qgis bestand).\nQGIS kent twee soorten kaartlagen. Dat zijn vectorlagen en rasterlagen.\nEen vectorlaag vertegenwoordigt een geografisch object met duidelijke grenzen en vormen zoals, punten, lijnen en polygonen. Zo worden deze lagen gebruikt voor het weergeven van wegen, gebouwen en administratieve grenzen. Een toepassing van een vectorlaag is het intekenen van de projectlocatie of het intekenen van onderzoekspunten.\nEen rasterlaag vertegenwoordigt een bestaat uit een raster van cellen. Elke cel heeft een eigen waarde die een waarde van die locatie vertegenwoordigt. Zo is een rasterlaag handig voor het weergeven van continue gegevens zoals temperatuur, hoogte of foto’s. De hoogtekaart en topotijdreiskaarten zijn goede voorbeelden van rasterlagen waar wij veel mee werken.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.1projectlocatietekenen/",
+    "title": "2.1 Projectlocatie tekenen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "\n1.\tAls eerst selecteer je de kaartlaag ‘Projectlocatie’ (1 in Figuur 8).\n2.\tZet bewerken van de kaartlaag aan in de taakbalk (het potloodje).\n3.\tGeef aan dat je een nieuw gebied wilt tekenen.\na. Het tekenen doe je door met je muis op de kaart te klikken. Met een klik op de rechtermuisknop laat je QGIS weten dat je weten dat je klaar bent met het tekenen\nb. Als je klaar bent met het bewerken, dan kan je het bewerken van de kaartlaag uitzetten door nog een keer op het potloodje te klikken (2) of rechtermuisknop.\nc. Sla de kaartlaag vervolgens op (zie 3 Kaartlagen). De onderzoekslocatie slaan wij op onder het mapje ‘Shape’ in het ‘GIS’-mapje en krijgt de naam ‘onderzoekslocatie’ of ‘projectlocatie’.\nVoor het aanpassen van de onderzoekslocatie, zie 3.4 Vectorlaag aanpassen\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.1algemeen/",
     "title": "1.1 Algemene uitleg QGIS",
     "description": "",
     "searchKeyword": "",
     "content": ""
   },{
     "section": "Manual",
-    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/sjablonen/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.2vectorlaagtekenen/",
+    "title": "3.2 Vectorlaag tekenen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In QGIS, kun je eenvoudig een vectorlaag maken, waarbij je de keuze hebt om te werken met tijdelijke tekenlagen of door direct kaartlagen op te slaan.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.2boorpuntentekenen/",
+    "title": "2.2 Boorpuntentekenen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "\nSelecteer de kaartlaag (onderzoekspunten lokaal of geotechniek lokaal; 1 in Figuur 9). Zet bewerken van de kaartlaag aan in de taakbalk (het potloodje). Klik vervolgens op knopje 3 om aan te geven dat je een nieuw object wilt tekenen. Klik op de locatie op de kaart waar het onderzoekspunt geplaatst moet worden. Van ieder onderzoekspunt moet je aangeven wat de eigenschappen zijn (naam, type, diepte, etc.) en klik dan op ‘ok’. Mocht een van de punten na het opslaan toch foutief zijn (bijvoorbeeld het is een ondiepe boring terwijl het een diepe boring had moeten zijn), dan kan je dit achteraf nog aanpassen. Ga hiervoor naar de attributentabel van de desbetreffende laag (zie ook 3.3 Attributentabel) en druk op het potloodje. Nu kan je de eigenschappen aanpassen. Of moet het boorpunt toch verplaatst worden klik dan het symbool aan rechts naast knopje 3 in Figuur 9. Selecteer het boorpunt en sleep het naar de gewenste locatie. Als je klaar bent met bewerken, dan kan je het bewerken van de kaartlaag uitzetten (2). Sla vervolgens de kaartlaag op (3 Kaartlagen). De kaartlaag wordt opgeslagen onder het mapje ‘Shape’ in de ‘GIS’-map van het project en krijgt de naam ‘onderzoekspunten’. "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.2sjablonen/",
     "title": "1.2 Sjablonen Ortageo",
     "description": "",
     "searchKeyword": "",
     "content": "Binnen Ortageo zijn er vier projectsjablonen die gebruikt kunnen worden.\nSjabloon light Sjabloon bodem Sjabloon water Sjabloon internationaal Sjabloon light is de lichtste versie van de Ortageo sjablonen en opent daarom ook het snelste. Met de light sjabloon kan je de projectlocatie, boorpunten intekenen en Topotijdreis bekijken. Dit zou genoeg moeten zijn om een simpel boorplan te tekenen.\nSjabloon bodem is de medium versie van de Ortageo sjablonen en opent daarom ook ietwat langzamer dan de light sjabloon. Je krijgt met de sjabloon hetzelfde als met de light sjabloon, maar krijgt nog meer informatie te zien. Zo kan je ook luchtfoto’s van de afgelopen 10 à 20 jaar zien, hoogtegegevens bekijken en informatie van de legger inzien. Het nadeel ten opzichte van de light sjabloon is dat QGIS er nog wel eens wat extra tijd over doet om gegevens in te laden, omdat deze meer gebruik maakt van data van externe servers. Als deze servers problemen hebben, dan heeft QGIS wat meer moeite met inladen.\nSjabloon water is de zwaarste versie van de Ortageo sjablonen en is daarmee ook de traagste met openen. Met deze volledige versie kan je doen wat je met sjabloon bodem kan, maar je kan ook meerdere grondwatermodellen bekijken. Omdat dit sjabloon de meeste externe data gebruiken, is dit sjabloon ook de meest instabiele, waardoor de wachttijd bij het opstarten extra lang kan duren.\nSjabloon internationaal is een sjabloon die speciaal is gemaakt voor de projecten in het buitenland. Deze maakt dan ook gebruik van een ander coördinaten stelsel dan de andere sjablonen. Het enige wat je hiermee kan doen is de onderzoekslocatie intekenen en boorpunten plaatsen.\nIn de tabel hieronder zijn de verschillen tussen de drie basissjablonen samengevat. Misschien dat deze je kan helpen bij het uitkiezen van de meest passende sjabloon bij jouw project.\n"
   },{
     "section": "Manual",
-    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/sjablonen/instellen/",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.3attributentabel/",
+    "title": "3.3 Attributentabel",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Vectorlagen kan je voorzien van informatie per attribuut (boorpunt bijvoorbeeld). Zo kan je een onderzoekspunt intekenen en aangeven of dit een boring, peilbuis of CPT is.\nDe attributentabel is een centrale plaats in QGIS waar alle informatie die je aan de onderzoekspunten hebt gekoppeld, wordt opgeslagen. Je kunt deze tabel openen en gebruiken om de attributen te beheren en te analyseren.\nHoe open je de attributentabel:\nNadat je de onderzoekspunten hebt ingetekend in je vectorlaag, kun je de attributentabel openen door naar het lagenpaneel te gaan (zie Figuur 19).\nRechtsklik op de laag die je hebt gemaakt voor de bodemonderzoekspunten. Kies in het contextmenu dat verschijnt voor \u0026ldquo;Attributentabel openen\u0026rdquo;. De attributentabel wordt nu geopend (zie ook Figuur 20), waarbij elke rij een specifiek onderzoekspunt vertegenwoordigt. Elke kolom komt overeen met een attribuut zoals \u0026ldquo;Type\u0026rdquo;, \u0026ldquo;Diepte\u0026rdquo;, enzovoort.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.3kaartlagenbewerken/",
+    "title": "2.3 Kaartlagen bewerken",
+    "description": "",
+    "searchKeyword": "",
+    "content": "\nSelecteer de kaartlaag die je wilt bewerken (1 in Figuur 10). Zet bewerken van de kaartlaag aan. Selecteer de optie voor het bewerken van de datalaag (i.p.v. een nieuwe toevoegen). Klik op het punt van het vlak dat je wilt wijzigen en verplaats deze naar de nieuwe locatie. Voor punten werkt dit hetzelfde. Als je klaar bent met het wijzigen, klik dan op ‘bewerkingen opslaan’. Nadat je klaar bent met het bewerken, zet het bewerken uit (2). "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.3opstartscherm/",
+    "title": "1.3 Opstartscherm",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Bij het opstarten van QGIS krijg je als eerste het opstartscherm van QGIS te zien, zie ook Figuur 2. In het opstartscherm zijn al een aantal delen van elkaar te onderscheiden.\nMenubalk: Hier zitten in alle instellingen en functies, waaronder ook het opslaan van een bestand;\nRecente projecten: Dit is een overzicht van alle recente geopende projecten;\nProjectsjablonen: Dit is een overzicht van alle beschikbare sjablonen, wordt door de QGIS-beheerder regelmatig bijgewerkt.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.4vectorlaagaanpassen/",
+    "title": "3.4 Vectorlaag aanpassen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In QGIS kun je eenvoudig een vectorlaag bewerken om zowel ruimtelijke eigenschappen (zoals de vorm van een polygoon of lijn).\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.4meetpuntenimporterenenexporteren/",
+    "title": "2.4 Meetpunten importeren en exporteren",
+    "description": "",
+    "searchKeyword": "",
+    "content": ""
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.4aanmakenopenennieuwproject/",
+    "title": "1.4 Aanmaken openen nieuw project",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Binnen Ortageo is de keuze gemaakt dat wij altijd vanuit een sjabloon werken, het voordeel van een sjabloon is dat de benodigde datalagen zijn toegevoegd aan het project en de opmaak ook gelijk is voor iedereen. Het aanmaken kan op twee manieren:\nMethode 1 openen nieuw project vanuit opstartscherm\nIn Figuur 1 zijn drie blokken aangegeven, in blok ‘3’ is een overzicht van alle beschikbare sjablonen zichtbaar.\nDubbelklik op het sjabloon dat gewenst is.\nQgis gaat nu dit sjabloon openen. Dit kan even duren.\nNa het openen van het sjabloon door Qgis is er een leeg project zonder projectspecifieke data. Hier kan nu in gewerkt worden en opgeslagen worden in de projectmap onder mapje GIS.\n\u0026nbsp;\rMethode 2 openen nieuw project van taakbalk\nIn Figuur 3 wordt links bovenin op “project’ geklikt (blok ‘1’ in Figuur 2), er opent nu een dropdownmenu.\nIn het dorpdownmenu is de eerste optie “nieuw uit projectsjabloon”, er komt een extra lijst aan opties zichtbaar.\nIn de volledige lijst zijn alle sjablonen zoals die via methode 1 ook beschikbaar waren zichtbaar.\nBij het klikken op een sjabloon opent het desbetreffende sjabloon zich. Dit kan even duren.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.5openenbestaandproject/",
+    "title": "1.5 Openen bestaand project",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Indien er al een project is aangemaakt (door jezelf of door een collega) kan dit project ook geopend worden door alle andere gebruikers. Bij het openen vanuit de “verkenner” gaat dit hetzelfde als voor ieder ander soort bestand (Word, Excel, etc.) door er dubbel op te klikken. Qgis gaat daarna opstarten en het project wordt direct geladen. Hierbij worden alle datalagen die in het project waren opgeslagen ook geladen.\nDe andere mogelijkheid voor het openen van een QGIS-project is door deze vanuit QGIS zelf te gaan openen. Dit kan op drie verschillende manieren.\nMethode 1: openen van recente projecten vanuit het opstartscherm\nIn blok ‘2’ van Figuur 2 is een lijst beschikbaar met alle recent geopende projecten van jouw computer.\nDoor te dubbelklikken op een recent project gaat QGIS dit project openen, de werkwijze is vergelijkbaar als voor het openen van een sjabloon.\nMethode 2: openen recent project vanuit taakbalk\nIn Figuur 3 wordt links bovenin op “project’ geklikt (blok ‘1’ in Figuur 2), er opent nu een dropdownmenu.\nIn het dorpdownmenu is de derde optie “recent geopend”, er komt een extra lijst aan opties zichtbaar.\nIn de volledige lijst zijn alle recent geopende projecten zoals die via methode 1 ook beschikbaar waren zichtbaar.\nBij het klikken op een project opent het desbetreffende project zich.\nMethode 3: openen bestaand project vanuit taakbalk\nIn Figuur 3 wordt links bovenin op “project’ geklikt (blok ‘1’ in Figuur 2), er opent nu een dropdownmenu.\nIn het dropdownmenu is de tweede optie “openen”, er opent zich een pop-upscherm met de verkenner.\nJe kunt nu naar de locatie waar het project is opgeslagen en het bestand selecteren.\nNadat het bestand is geselecteerd klik je in het pop-scherm op ‘openen’, QGIS gaat het project nu openen.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.6co%C3%B6rdinatensystemenvankaartlagencrs/",
+    "title": "3.6 Coördinaten systemen van kaartlagen (CRS)",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In principe zijn alle kaartlagen van Nederlandse bronnen al ingesteld op het volgende Coördinaten Referentie Systeem (CRS) ‘EPSG: 28992 – Amersfoort / RD New’.\nMocht dit onverhoopt niet het geval zijn, dan zie je het volgende tekentje achter je datalaag (Figuur 26):\nDit los je als volgt op (zie Figuur 27):\nSelecteer de desbetreffende laag en druk vervolgens op rechtermuisknop. Er opent een pop-upscherm, ga nu naar ‘Laag-CRS’. Er verschijnt een nieuw pop-upscherm, druk op ‘instellen op EPSG:28992’. Je CRS van de kaartlaag is nu weer goed ingesteld.\n![Alt text](./3.6imageb.svg)\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.6opslaanproject/",
+    "title": "1.6 Opslaan project",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In deze stap wordt er vanuit gegaan dat er al een QGIS project geopend is welke nu opgeslagen dient te worden. Het opslaan van individuele datalagen wordt hier niet behandeld (zie hiervoor 3 Kaartlagen).\nIn Figuur 4 wordt links bovenin op “project’ geklikt (blok ‘1’ in Figuur 2), er opent nu een dropdownmenu. In het dorpdownmenu zijn de vierde en de vijfde optie respectievelijk ‘opslaan’ en ‘opslaan als’. Bij ‘opslaan’ wordt het project opgeslagen onder de huidige naam, indien het project nog niet eerder was opgeslagen opent zich een popupscherm met de verkenner. Je moet nu de locatie kiezen waar het project opgeslagen moet worden. Bij ‘opslaan als’ kun je het project opslaan onder een nieuwe naam, er opent zich dan een popupscherm waarbij je de locatie voor het project moet gaan selecteren en een naam voor het nieuwe project moet opgeven. Het project is nu opgeslagen. "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.7gebruikersprofielen/",
+    "title": "1.7 Gebruikersprofielen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Binnen Ortageo werken wij met twee verschillende gebruikersprofielen (zie Figuur 5):\n1.\tAdviseur: Dit is een beknopt gebruikersprofiel zonder veel tools en functies in de menubalk.\n2.\tGIS: Dit is een uitgebreider gebruikersprofiel met meer functies en mogelijkheden.\nZelf zal je na moeten gaan welk gebruikersprofiel het fijnste werkt. Het gebruikersprofiel aanpassen kan je via de menubalk, onder het kopje ‘extra’.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.8werkbalk/",
+    "title": "1.8 Werkbalk",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In de balk boven in je scherm heb je verschillende functies (1. In Figuur 6). In het gebruikersprofiel (1.7 Gebruikersprofielen) ‘adviseur’ is deze balk flink uitgekleed. In het gebruiksprofiel ‘GIS’ zijn veel functies beschikbaar. Indien je dit zelf wilt inrichten, dan kan dit op de volgende manier.\nKlik in de balk op rechtermuisknop. Er verschijnt een pop-upscherm. In het pop-upscherm kan je kiezen welke functies je zichtbaar wilt hebben in je werkbalk en welke niet. "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.9werkenviadecschijf/",
+    "title": "1.9 Werken via de C-schijf",
+    "description": "",
+    "searchKeyword": "",
+    "content": "In principe slaan wij QGis projecten op op de O-schijf onder het desbetreffende projectnummer. Echter kan het werken in QGis vanaf de O-schijf vrij langzaam zijn. Hierdoor kan het fijn zijn om te werken vanaf de lokale schijf. Dit gaat meestal een stuk sneller. Dit doe je als volgt:\nGa naar ‘documenten’ in je verkenner; Maak een map ‘Tijdelijk GIS’ aan; Ga naar de O-schijf, naar het desbetreffende project; Kopieer de gehele GIS map (zie Figuur 7). Druk ctrl+C of rechtermuisknop en kopiëren; Ga terug naar Documenten in je verkenner en naar de zojuist aangemaakte Tijdelijk GIS-map; Maak onder deze map een nieuwe map met projectnummer en naam van betreffende project; Open deze map en druk ctrl+V of rechtermuisknop plakken Nu staat het project op de C-schijf en kan je er in werken. Het project staat nu op jouw laptop/computer. Andere collega’s kunnen er nu niet meer bij! Als je klaar bent zal je het terug moeten zetten op de O-schijf. Dat doe je als volgt:\nSla het project op (zie ook 1.6 Opslaan project) en sluit het project af; Selecteer de gehele GIS-map van betreffende project (zie Figuur 6). Druk ctrl+C of rechtermuisknop en kopiëren; Ga terug naar de O-schijf, naar de projectmap; Druk op ctrl+v of rechtermuisknop en plakken; Je krijgt nu een melding dat er bestanden met dezelfde naam in staan. Druk op overschrijven; Nu staat het project weer op de O-schijf en kunnen collega’s er weer bij. "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.4vectorlaagaanpassen/3.4.1aanpassenvandegeometrievaneenvectorlaag/",
+    "title": "3.4.1	Aanpassen van de geometrie van een vectorlaag (polygoon of lijn)",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Als je de vorm van een polygoon of lijn, bijvoorbeeld van je onderzoekslocatie, wilt aanpassen, dan kan dat als volgt:\nSelecteer de kaartlaag die je wilt bewerken (1 in Figuur 24). Zet bewerken van de kaartlaag aan. Selecteer de optie voor het bewerken van de datalaag (i.p.v. een nieuwe toevoegen). Klik op het punt van het vlak dat je wilt wijzigen en verplaats deze naar de nieuwe locatie. Voor punten werkt dit hetzelfde. Als je klaar bent met het wijzigen, klik dan op ‘bewerkingen opslaan’. Nadat je klaar bent met het bewerken, zet het bewerken uit (2). "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.5raster/",
+    "title": "3.5 Raster",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Naast de vectorlagen (shapefiles) komen raster-bestanden ook veelvuldig voor. De Topotijdreis-kaarten en AHN-kaarten zijn voorbeelden van rasters. Je kan ze als volgt herkennen:\nIn tegenstelling tot vectorlagen, kunnen wij deze kaarten niet (makkelijk) aanpassen. Wel kan je deze kaartlagen gebruiken om berekeningen uit te voeren of nieuwe kaarten te maken (bijvoorbeeld drooglegging of ontwateringsdiepte). Voor bodemonderzoeken hebben wij dit echter nauwelijks nodig.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.4meetpuntenimporterenenexporteren/2.4.1meetpuntenimporteren/",
+    "title": "2.4.1 Meetpunten importeren",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Afhankelijk van het aangeleverde bestand, kan je aangeleverde meetpunten importeren. Indien dit mogelijk is of het bestand voldoet niet, dan kan je het beste contact opnemen met de tekenkamer. Mogelijk kunnen zij het omzetten, anders zou je ook contact met de opdrachtgever kunnen opnemen.\nAls je een shapefile wilt importeren, ga in de werkbalk naar ‘kaartlagen’ en vervolgens naar ‘laag toevoegen’ (1 in Figuur 11). Er opent nu een nieuw pop-upscherm. Indien je een Shapefile wilt importeren, druk op ‘Vectorlaag toevoegen’. Het volgende pop-upscherm wordt zichtbaar (Figuur 12). Druk op de knop met de drie puntjes en zoek het desbetreffende shapefile (SHP) op. Druk op ‘openen’ in de verkenner en vervolgens op ‘toevoegen’ in het pop-upscherm uit Figuur 12. Als je een CSV wilt importeren, druk op ‘tekstgescheiden laag toevoegen’ uit Figuur 11. Het volgende pop-upscherm wordt zichtbaar (Figuur 13).\nSelecteer het juiste bestand. Afhankelijk van het bestand, is de informatie gescheiden met komma’s, puntkomma’s, dubbele punt etc. Selecteer de juiste tekstscheiders. Mogelijk bestaat de eerste regel van de CSV kolomnamen of niet. Dit geef je in dit vak aan. Selecteer welk veld de X en Y waardes zijn. Als de tekstscheiders in punt 2 niet goed zijn gekozen, dan komen hier geen of verkeerde waardes te staan. Druk op toevoegen. Let op! Als je een CSV hebt toegevoegd aan Qgis, dan kan je binnen Qgis de eigenschappen en waardes van de CSV niet aanpassen. Hiervoor zal je of de CSV buiten Qgis moeten aanpassen.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.4meetpuntenimporterenenexporteren/2.4.2meetpuntenexporteren/",
+    "title": "2.4.2 Meetpunten exporteren",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Je kan de meetpunten die je in QGIS hebt getekend omzetten naar een CSV bestand. Dit kan je bijvoorbeeld gebruiken om vrijstelling te vragen voor een EV of om de punten te versturen naar de GPS.\nKlik met je rechtermuisknop op de kaartlaag (1 in Figuur 14). Er opent een menu. Klik op ‘exporteren’ en vervolgens op ‘objecten opslaan als’. Er opent een nieuw pop-up menu. Bij indeling, selecteer ‘Komma gescheiden waarden [CSV]. Kies de bestandslocatie en geef het bestand een naam. Klik op ‘OK’. De punten zijn nu opgeslagen in een CSV-bestand. Tip: zet bij kopje 6 in Figuur 14 ‘type geometrie’ op ‘punt’ en vink het vakje ‘multi-type forceren’ aan. Hiermee is de kans dat je het CSV-bestand zonder problemen in de Marxact krijgt, een stuk groter.\nIndien vanuit een opdrachtgever of een leidingbeheerder gevraagd wordt om een shapefile-bestand van de boorpunten, dan staat de shapefile in de projectmap, in de submap ‘GIS’ in het mapje ‘Shape’. Let hierbij op dat je alle 5 de bestanden van de shapefile meestuurt / upload (zie Figuur 15). Het makkelijkste is om deze 5 bestanden te zippen.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/2.5tekeningexporterenalspdf/",
+    "title": "2.5 Tekening exporteren als PDF",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Het exporteren als PDF is handig als je een boorplan of een situatietekening maakt.\nKlik in de taakbalk op het bovenstaande icoontje (1 in Figuur 16). Er opent nu een scherm waarin je de bestandslocatie en -naam moet opgeven. Nadat je de bestandslocatie en -naam hebt opgegeven opent dit scherm zich. Helemaal onderaan staat de optie ‘geometrieën vereenvoudigen om bestandsgrootte te verkleinen’, zet dit vinkje altijd uit. Klik nu op de knop ‘opslaan’. Je PDF wordt nu opgeslagen.\\ "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.2vectorlaagtekenen/3.2.1tijdelijketekenlaag/",
+    "title": "3.2.1 Tijdelijke tekenlaag",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Tijdelijke lagen zijn handig als je snel iets wilt tekenen of schetsen zonder meteen een bestand op te slaan. Dit is ideaal voor tijdelijke analyses of wanneer je snel iets wilt testen. Om een tijdelijke tekenlaag te maken, ga je naar de menubalk en klik je op \u0026quot; \u0026ldquo;Nieuwe tijdelijke tekenlaag\u0026hellip;\u0026rdquo; (zie 1 in Figuur 18). Hier kies je het gewenste geometrie-type, zoals een punt, lijn of polygoon, en selecteer je het coördinatenreferentiesysteem (CRS) dat je wilt gebruiken (zie 2 in Figuur 18). Binnen Ortageo maken wij altijd gebruik van het CRS van Amersfoort (EPSG:28992; zie ook 3.6 Coördinaten systemen van kaartlagen (CRS)). De tijdelijke laag verschijnt nu in het lagenpaneel, waarna je kunt beginnen met het tekenen van objecten. Het is belangrijk om te onthouden dat, aangezien het een tijdelijke laag is, deze niet automatisch wordt opgeslagen. Als je QGIS sluit zonder de laag op te slaan, verlies je de gegevens. Als je klaar bent met je tijdelijke laag en deze wilt opslaan, kun je rechtsklikken op de laag in het lagenpaneel, kiezen voor \u0026ldquo;Exporteren\u0026rdquo; en vervolgens \u0026ldquo;Objecten opslaan als\u0026hellip;\u0026rdquo;. Hiermee kun je de laag opslaan.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.2vectorlaagtekenen/3.2.2permanentetekenlaag/",
+    "title": "3.2.2 Permanente tekenlaag",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Als je daarentegen een nieuwe vectorlaag wilt maken die meteen wordt opgeslagen (bijvoorbeeld een verontreinigingscontour), kun je dit doen door direct een bestand te creëren in een specifiek formaat. Je begint wederom door naar \u0026ldquo;Laag\u0026rdquo; te gaan, waarna je \u0026ldquo;Nieuwe Laag maken\u0026rdquo; en vervolgens \u0026ldquo;Nieuwe Shape-bestandlaag\u0026hellip;\u0026rdquo; selecteert (links van 1 in Figuur 18). Je kiest dan het gewenste geometrie-type, geeft de laag een naam, kiest de locatie waar je deze wilt opslaan, en voegt eventuele attributen (kolommen) toe aan je laag, zoals namen, ID\u0026rsquo;s, enzovoort. Na het kiezen van het coördinatenreferentiesysteem (CRS) klik je op \u0026ldquo;OK\u0026rdquo; om de laag te maken. Nu kun je objecten in deze laag tekenen en alle wijzigingen worden direct in het bestand opgeslagen, wat handig is voor projecten waarbij je je gegevens wilt bewaren voor later gebruik of om te delen met anderen.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.2vectorlaagtekenen/3.2.3verschillendedataformatsvectorlagen/",
+    "title": "3.2.3 Verschillende data formats vectorlagen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Wanneer je een vectorlaag opslaat in QGIS, kun je kiezen uit verschillende bestandsformaten, waarvan de Shapefile en GeoPackage de meest voorkomende zijn. Het Shapefile-formaat is ontwikkeld door ESRI en is een van de oudste en meest gebruikte vectorformaten. Een Shapefile bestaat uit meerdere bestanden met dezelfde naam, maar verschillende extensies, zoals .shp, .shx, en .dbf, die samenwerken om de ruimtelijke en attributieve informatie op te slaan. Hoewel Shapefiles breed compatibel zijn met andere GIS-software, hebben ze ook enkele beperkingen. Ze ondersteunen bijvoorbeeld geen complexe gegevens zoals geavanceerde geometrieën of topologie, zijn beperkt tot maximaal 2 GB aan gegevens per bestand, en attributennamen zijn beperkt tot 10 tekens.\nAan de andere kant is GeoPackage een nieuwer open standaardformaat, ontwikkeld door de Open Geospatial Consortium (OGC). In tegenstelling tot een Shapefile bestaat een GeoPackage uit slechts één bestand met de extensie .gpkg. Dit formaat ondersteunt zowel vector- als rastergegevens in hetzelfde bestand en heeft geen limiet op de bestandsgrootte, behalve wat het bestandssysteem toestaat.\nBelangrijk! Binnen Ortageo hebben we besloten om met shapefiles te werken om zo een eenduidige data structuur aan te houden. Daarnaast werken veel van onze opdrachtgevers / klanten ook met shapefiles. Probeer daarom zoveel mogelijk met shapefiles te werken.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.3attributentabel/3.3.1bewerkenvandeattributentabel/",
+    "title": "3.3.1	Bewerken van de attributentabel",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Indien nodig kan je de gegevens in de attributentabel aanpassen. Dit doe je als volgt:\nZodra je de attributentabel hebt geopend, druk op het icoontje voor het bewerken (1 in Figuur 20). Je kan nu de attributentabel aanpassen. Als je klaar bent met het bewerken van de attributentabel, sla de bewerkingen op en druk vervolgens weer op het icoontje voor het bewerken (1).\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.3attributentabel/3.3.2aanmakenenverwijderenkolommen/",
+    "title": "3.3.2 Aanmaken en verwijderen kolommen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Indien nodig kan je kolommen aanmaken of verwijderen uit de attributentabel:\nZodra je de attributentabel hebt geopend, druk op het icoontje voor het bewerken (1 in Figuur 21). Voor het aanmaken van een nieuwe kolom druk op Nieuw Veld. Er verschijnt een pop-upscherm. Vul hier de naam van de kolom in; het type gegeven (is het tekst dat je wilt invullen of een decimaal getal) en de lengte van de hoeveelheid tekens dat je benodigd denkt te hebben1. Druk vervolgens op ‘OK’ en je kolom komt tevoorschijn. Voor het verwijderen van een kolom, druk op Veld Verwijderen. Er verschijnt een pop-upscherm. Selecteer de kolom die je wilt verwijderen en druk op ‘OK’. De kolom wordt verwijderd. 1Let op! Als je een kolom aanmaakt voor coördinaten, kies bij type dan decimaal getal (Decimaal getal (real)). Anders worden je coördinaten zeer onnauwkeurig (geen getallen achter de komma).\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.3attributentabel/3.3.3selecterenvanobjecten/",
+    "title": "3.3.3 Selecteren van objecten",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Als je specifieke rijen (attributen) wilt bewerken, zichtbaar maken of verwijderen, dan kan je deze selecteren.\nJe kan door op het rijnummer te klikken de desbetreffende rij(en) selecteren (1 in Figuur 22). Als je een rij of meerdere rijen hebt geselecteerd, dan kan je door op dithet prullenbak icoontje te klikken deze verwijderen. Je kan ook middels een ‘expressie’ rijen selecteren. Bijvoorbeeld alle boringen van 0,5 m-mv. Dan zijn alle boringen met deze diepte geselecteerd. Hier kan je alle rijen (attributen) selecteren. Als je een rij niet meer geselecteerd wil hebben, druk dan op dit icoontje. "
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.3attributentabel/3.3.4geometrieberekenen/",
+    "title": "3.3.4	Geometrie berekenen",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Indien je een nieuwe Shapefile hebt aangemaakt voor bijvoorbeeld een tracé, dan kan je middels de attributentabel de lengte berekenen. Dit doe je als volgt (zie Figuur 23):\nOpen de attributentabel en druk op het icoontje voor bewerken (hoeft niet).\rDruk op het icoontje van de ‘veldberekening’. Er opent een nieuw pop-upscherm.\rZoek naar het kopje ‘Geometrie’ en klap deze uit. Er wordt nu een waslijst aan mogelijkheden zichtbaar. Voor bodemonderzoek zijn de volgende vaak relevant:\rArea: hiermee bereken je de oppervlakte van bijvoorbeeld een locatie1.\rLength: hiermee bereken je de lengte van bijvoorbeeld een tracé.\rX: hiermee bereken je de x-coördinaat\rY: hiermee bereken je de y-coördinaat.\rAls je één van de bovenstaande wilt berekenen, druk dan op $area, $length, $x of $y!\rNu verschijnt er een nieuwe kolom in je attributentabel met het resultaat van de berekening. Vergeet niet om de bewerking op te slaan!\r1Indien het oppervlak verandert van de locatie, dan kan je dit opnieuw berekenen. Open opnieuw de ‘veldberekening’ en vink nu ‘bestaande velden vernieuwen’ aan (6 in Figuur 23). Selecteer de betreffende kolom en druk vervolgens op ‘OK’.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/2werkproces/",
+    "title": "2. WERKPROCES",
+    "description": "",
+    "searchKeyword": "",
+    "content": "Het werkproces beschrijft de meest voorkomende stappen binnen Qgis die binnen het uitvoeren van bodemonderzoek gebruikt worden. In de beknopte handleiding zijn de verschillende stappen van het werkproces uitgebreider omschreven.\n2.1\tProjectlocatie tekenen QGIS\n2.2\tBoorpunten tekenen\n2.3\tKaartlagen bewerken\n2.4\tMeetpunten importeren en exporteren\n2.4.1\tMeetpunten importeren\n2.4.2\tMeetpunten exporteren\n2.5\tTekening exporteren als PDF\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/",
+    "title": "3 KAARTLAGEN",
+    "description": "",
+    "searchKeyword": "",
+    "content": "3.1\tAlgemene beschrijving\n3.2\tVectorlaag tekenen\n3.2.1\tTijdelijke tekenlaag\n3.2.2\tPermanente tekenlaag\n3.2.3\tVerschillende data formats vectorlagen\n3.3\tAttributentabel\n3.3.1\tBewerken van de attributentabel\n3.3.2\tAanmaken en verwijderen kolommen\n3.3.3\tSelecteren van objecten\n3.3.4\tGeometrie berekenen\n3.4\tVectorlaag aanpassen\n3.4.1\tAanpassen van de geometrie van een vectorlaag (polygoon of lijn)\n3.5\tRaster\n3.6\tCoördinaten systemen van kaartlagen (CRS)\n3.7\tWMS/WFS/WCS\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/qgisbasis/1.2sjablonen/instellen/",
     "title": "1.2.1 Sjablonen instellen",
     "description": "",
     "searchKeyword": "",
     "content": "Bij nieuwe gebruikers zijn de sjablonen nog niet beschikbaar. Dit zal ingesteld moeten worden. Dit gaat als volgt (zie ook Figuur 1):\nGa naar ‘extra’ en druk vervolgens op opties. Er verschijnt een pop-upscherm. Ga naar ‘algemeen’. Ga naar sjabloonmap en druk op het icoontje voor ‘bladeren’. Ga naar de Y-schijf (Software), dan naar de map ‘GIS’, dan naar de map ‘Team Water – Qgis sjabloon’ en selecteer vervolgens de map ‘Qgis Sjabloon’. Druk op ‘OK’ en start Qgis opnieuw op. Figuur 1.\n"
+  },{
+    "section": "Manual",
+    "url": "http://localhost:1313/hugoOrtageo/manual/3kaartlagen/3.7wmswfswcs/",
+    "title": "",
+    "description": "",
+    "searchKeyword": "",
+    "content": ""
   }]
