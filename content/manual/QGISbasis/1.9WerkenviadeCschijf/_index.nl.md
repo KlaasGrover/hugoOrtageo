@@ -41,7 +41,7 @@ Het project staat nu op jouw laptop/computer. Andere collega’s kunnen er nu ni
 
 
 
-1. Sla het project op (zie ook 1.6 Opslaan project) en sluit het project af;
+1. Sla het project op (zie ook [1.6 Opslaan project]({{< ref "/manual/QGISbasis/1.6Opslaanproject/_index.md" >}}))) en sluit het project af;
 2. Selecteer de gehele GIS-map van betreffende project (zie Figuur 1.9). Druk ctrl+C of rechtermuisknop en kopiëren;
 3. Ga terug naar de O-schijf, naar de projectmap;
 4. Druk op ctrl+v of rechtermuisknop en plakken;
