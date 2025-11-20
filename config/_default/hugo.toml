@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://klaasgrover.github.io/hugoOrtageo/"
 title = "Ortageo Qgis Handleiding"
+disablePathToLower = true
 theme = "godocs-1"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Amsterdam"
