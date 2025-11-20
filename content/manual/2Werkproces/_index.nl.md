@@ -11,7 +11,7 @@ weight: 20
 Het werkproces beschrijft de meest voorkomende stappen binnen Qgis die binnen het uitvoeren van bodemonderzoek gebruikt worden. In de beknopte handleiding zijn de verschillende stappen van het werkproces uitgebreider omschreven.
 
 
-[2.1	Projectlocatie tekenen QGIS](/2.1projectlocatietekenen)
+[2.1	Projectlocatie tekenen QGIS](content/manual/2Werkproces/2.1Projectlocatietekenen)
 
 [2.2	Boorpunten tekenen](2.2Boorpuntentekenen/)
 
