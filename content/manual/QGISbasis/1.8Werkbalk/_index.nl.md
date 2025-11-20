@@ -12,7 +12,7 @@ weight: 80
 
 
 
-In de balk boven in je scherm heb je verschillende functies (1. In Figuur 1.8). In het gebruikersprofiel (1.7 Gebruikersprofielen){{< ref "/hugoOrtageo/manual/QGISbasis/1.7Gebruikersprofielen/_index.md" >}} ‘adviseur’ is deze balk flink uitgekleed. In het gebruiksprofiel ‘GIS’ zijn veel functies beschikbaar. Indien je dit zelf wilt inrichten, dan kan dit op de volgende manier.
+In de balk boven in je scherm heb je verschillende functies (1. In Figuur 1.8). In het gebruikersprofiel (1.7 Gebruikersprofielen){{< ref "/hugoOrtageo/manual/QGISbasis/1.7Gebruikersprofielen/" >}} ‘adviseur’ is deze balk flink uitgekleed. In het gebruiksprofiel ‘GIS’ zijn veel functies beschikbaar. Indien je dit zelf wilt inrichten, dan kan dit op de volgende manier.
 
 <div style="line-height:1.5; margin:0; padding:0;">
 <img src="1.8image.svg" style="display:block; margin:0;" />
