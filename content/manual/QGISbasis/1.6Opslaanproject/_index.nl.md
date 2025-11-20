@@ -12,7 +12,7 @@ weight: 60
 
 
 
-In deze stap wordt er vanuit gegaan dat er al een QGIS project geopend is welke nu opgeslagen dient te worden. Het opslaan van individuele datalagen wordt hier niet behandeld (zie hiervoor [3 Kaartlagen]({{< ref "/hugoOrtageo/manual/3KAARTLAGEN/_index.md" >}})).
+In deze stap wordt er vanuit gegaan dat er al een QGIS project geopend is welke nu opgeslagen dient te worden. Het opslaan van individuele datalagen wordt hier niet behandeld (zie hiervoor [3 Kaartlagen]({{< ref "/manual/3KAARTLAGEN/_index.md" >}})) .
 
 
 
