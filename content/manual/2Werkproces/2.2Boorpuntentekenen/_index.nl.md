@@ -47,7 +47,7 @@ weight: 20
 
 <li>Als je klaar bent met bewerken, dan kan je het bewerken van de kaartlaag uitzetten (2).</li> 
 
-<li>Sla vervolgens de kaartlaag op ([3 KAARTLAGEN]({{< ref "/manual/3KAARTLAGEN/_index.md" >}})). De kaartlaag wordt opgeslagen onder het mapje ‘Shape’ in de ‘GIS’-map van het project en krijgt de naam ‘onderzoekspunten’.</li> 
+<li>Sla vervolgens de kaartlaag op [3 KAARTLAGEN]({{< ref "/manual/3KAARTLAGEN/_index.md" >}}). De kaartlaag wordt opgeslagen onder het mapje ‘Shape’ in de ‘GIS’-map van het project en krijgt de naam ‘onderzoekspunten’.</li> 
 
 </ol>
 
