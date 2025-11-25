@@ -26,4 +26,4 @@ Om er zeker van te zijn dat je jouw geïnstalleerde plug-ins kan gebruiken, klik
 <span style="font-size:0.8em; display:block; margin:0;">Figuur 9.1c</span>
 </div>
 
-Een aantal plug-ins is zeer bruikbaar voor gebruik bij onder andere verkennend bodemonderzoek. Relevante plug-ins en de werking hiervan wordt hieronder per plug-in behandeld. De plug-in ‘Mergin Maps’ is in het voorgaande hoofdstuk behandeld (8 Mergin Maps).
+Een aantal plug-ins is zeer bruikbaar voor gebruik bij onder andere verkennend bodemonderzoek. Relevante plug-ins en de werking hiervan wordt hieronder per plug-in behandeld. De plug-in ‘Mergin Maps’ is in het voorgaande hoofdstuk behandeld ([8 Mergin Maps]({{< ref "/manual/8MERGINMAPS/_index.md" >}})).
