@@ -54,9 +54,9 @@ Vervolgens krijg je het volgende scherm te zien (Figuur 6.1b). Nu kan je de lage
 
 
 
-De KLIC wordt op de volgende manier zichtbaar (Figuur 6.1c). Eventueel kan je nu de symbologie aanpassen (zie ook 4 Symbologie). 
+De KLIC wordt op de volgende manier zichtbaar (Figuur 6.1c). Eventueel kan je nu de symbologie aanpassen (zie ook [4 Symbologie]({{< ref "/manual/4SYMBOLOGIE/_index.md" >}})). 
 
-**Let op!** Vaak staat de CRS van de laag ‘UtilityLink’ niet goed (zie 3.6 Coördinaten systemen van kaartlagen (CRS)). Pas dit aan naar Amersfoort.
+**Let op!** Vaak staat de CRS van de laag ‘UtilityLink’ niet goed (zie [3.6 Coördinaten systemen van kaartlagen (CRS)]({{< ref "/manual/3KAARTLAGEN/3.6CoördinatensystemenvankaartlagenCRS/_index.md" >}})). Pas dit aan naar Amersfoort.
 
 
 
