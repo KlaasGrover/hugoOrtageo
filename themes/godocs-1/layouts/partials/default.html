@@ -92,7 +92,12 @@
 {{ with $currentNode.File }}{{ $currentNodeFileUniqueID = .UniqueID }}{{ end }}
 <li data-nav-id="{{.Permalink}}" title="{{.Title}}"
   class="sidelist {{if .IsAncestor $currentNode }}parent{{end}} {{if eq $fileUniqueID $currentNodeFileUniqueID}}active parent{{end}}">
-  <a href="{{.Permalink}}">{{.Title }}</a>
+  <div class="nav-item-header">
+  {{ if ne $numberOfPages 0 }}
+    <span class="toggle-arrow">▸</span>
+  {{ end }}
+  <a href="{{.Permalink}}">{{.Title}}</a>
+</div>
   {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
   {{ if ne $numberOfPages 0 }}
   <ul>
