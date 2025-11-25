@@ -53,7 +53,7 @@ weight: 20
 
 ![Figuur 2.2](2.2image.svg)
 *Figuur 2.2*
-
+<div style="margin-left:1em;">
 1. Selecteer de kaartlaag (onderzoekspunten lokaal of geotechniek lokaal; 1 in Figuur 2.2).  
 2. Zet bewerken van de kaartlaag aan in de taakbalk (het potloodje).  
 3. Klik vervolgens op knopje 3 om aan te geven dat je een nieuw object wilt tekenen. Klik op de locatie op de kaart waar het onderzoekspunt geplaatst moet worden.  
@@ -65,3 +65,4 @@ weight: 20
 
 5. Als je klaar bent met bewerken, dan kan je het bewerken van de kaartlaag uitzetten (2).  
 6. Sla vervolgens de kaartlaag op [3 KAARTLAGEN]({{< ref "/manual/3KAARTLAGEN/" >}}). De kaartlaag wordt opgeslagen onder het mapje ‘Shape’ in de ‘GIS’-map van het project en krijgt de naam ‘onderzoekspunten’.  
+</div>
