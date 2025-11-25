@@ -52,9 +52,9 @@ Je hebt nu een bepaald aantal punten langs je onderzoekstracé staan zonder boor
 
 
 
-1. De laag ‘onderzoekspunten lokaal’ bewerken en middels snappen (zie 11.4 Snappen) de boorpunten op de juiste locaties zetten en de betreffende dieptes invoeren.
+1. De laag ‘onderzoekspunten lokaal’ bewerken en middels snappen (zie [11.4 Snappen]({{< ref "/manual/11TIPSENTRICKS/11.3Snappen/_index.md" >}})) de boorpunten op de juiste locaties zetten en de betreffende dieptes invoeren.
 
-2\. Middels veldberekeningen in de attributentabel de waardes bepalen (zie 3.3.4 Geometrie berekenen).
+2. Middels veldberekeningen in de attributentabel de waardes bepalen (zie [3.3.4 Geometrie berekenen]({{< ref "/manual/3KAARTLAGEN/3.3Attributentabel/3.3.4Geometrieberekenen/_index.md" >}})).
 
 </div>
 
