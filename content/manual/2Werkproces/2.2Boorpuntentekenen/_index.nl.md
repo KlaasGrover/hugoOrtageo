@@ -39,7 +39,7 @@ weight: 20
 
 <ol style="margin-left: 2em; list-style-type: lower-alpha;">
 
-<li>Mocht een van de punten na het opslaan toch foutief zijn (bijvoorbeeld het is een ondiepe boring terwijl het een diepe boring had moeten zijn), dan kan je dit achteraf nog aanpassen. Ga hiervoor naar de attributentabel van de desbetreffende laag (zie ook [3.3 Attributentabel]({{< ref "/manual/3KAARTLAGEN/3.3Attributentabel/_index.md" >}}))) en druk op het potloodje. Nu kan je de eigenschappen aanpassen.</li> 
+<li>Mocht een van de punten na het opslaan toch foutief zijn (bijvoorbeeld het is een ondiepe boring terwijl het een diepe boring had moeten zijn), dan kan je dit achteraf nog aanpassen. Ga hiervoor naar de attributentabel van de desbetreffende laag (zie ook [3.3 Attributentabel]({{< ref "/manual/3KAARTLAGEN/3.3Attributentabel/_index.md" >}})) en druk op het potloodje. Nu kan je de eigenschappen aanpassen.</li> 
 
 <li>Of moet het boorpunt toch verplaatst worden klik dan het symbool aan rechts naast knopje 3 in Figuur 9. Selecteer het boorpunt en sleep het naar de gewenste locatie.</li> 
 
