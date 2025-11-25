@@ -12,7 +12,7 @@ weight: 80
 
 
 
-Mergin Maps is de nieuwe veldwerk-app. Hiervan is in Qgis een plug-in beschikbaar. Indien deze niet zichtbaar is, voeg deze toe: zie 9 PLUG-INs.
+Mergin Maps is de nieuwe veldwerk-app. Hiervan is in Qgis een plug-in beschikbaar. Indien deze niet zichtbaar is, voeg deze toe: zie [9 PLUG-Ins]({{< ref "/manual/9PLUGINS/_index.md" >}}) .
 
 
 
