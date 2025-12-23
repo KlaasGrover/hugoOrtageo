@@ -5,7 +5,7 @@ draft: false
 weight: 50
 ---
 
-Indien geen herkenbare punten beschikbaar zijn om de Georeferencer (zie ook 5 Georeferencer) te gebruiken, dan kan je de plug-in ‘Freehand Raster Georeferencer’ gebruiken.
+Indien geen herkenbare punten beschikbaar zijn om de Georeferencer (zie ook [5 Georeferencer]({{< ref "/manual/5GEOREFERENCER/_index.md" >}})) te gebruiken, dan kan je de plug-in ‘Freehand Raster Georeferencer’ gebruiken.
 
 <div style="line-height:1.5; margin:0; padding:0; margin-bottom:1em;">
 <img src="9.5imagea.svg" style="display:block; margin:0;" />

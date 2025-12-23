@@ -112,7 +112,7 @@ Alle tekeningen worden nu als één PDF aangemaakt.
 
 
 
-Voor een tracé werkt dit precies hetzelfde. Echter zal je wel zelf eerst een bedekkingslaag moeten aanmaken met punten op een bepaalde afstand van elkaar. Hiervoor kan je het beste de functie ‘punten langs geometrie’ gebruiken (zie 10.1 Punten langs geometrie).
+Voor een tracé werkt dit precies hetzelfde. Echter zal je wel zelf eerst een bedekkingslaag moeten aanmaken met punten op een bepaalde afstand van elkaar. Hiervoor kan je het beste de functie ‘punten langs geometrie’ gebruiken (zie [10.1 Punten langs geometrie]({{< ref "/manual/10TOOLBOX/10.1Puntenlangsgeometrie/_index.md" >}})).
 
 
 

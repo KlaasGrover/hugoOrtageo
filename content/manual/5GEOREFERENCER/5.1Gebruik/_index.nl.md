@@ -12,7 +12,7 @@ weight: 10
 
 
 
-De **Georeferencer** is bedoeld om afbeeldingen te voorzien van coördinaten zodat ze kunnen worden ingeladen in QGIS. Hierbij is het een vereiste dat de afbeelding herkenbare punten heeft waarvan je de positie of coördinaten kan herleiden. Indien er geen herkenbare punten aanwezig zijn, gebruik dan de Freehand Raster Georeferencer (zie 9.5 Freehand Raster Georeferencer).
+De **Georeferencer** is bedoeld om afbeeldingen te voorzien van coördinaten zodat ze kunnen worden ingeladen in QGIS. Hierbij is het een vereiste dat de afbeelding herkenbare punten heeft waarvan je de positie of coördinaten kan herleiden. Indien er geen herkenbare punten aanwezig zijn, gebruik dan de Freehand Raster Georeferencer (zie [9.5 Freehand Raster Georeferencer]({{< ref "/manual/9PLUGINS/9.5FreehandRasterGeoreferencer/_index.md" >}})).
 
 
 

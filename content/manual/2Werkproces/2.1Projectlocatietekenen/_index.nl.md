@@ -36,13 +36,13 @@ a. Het tekenen doe je door met je muis op de kaart te klikken. Met een klik op d
 
 b. Als je klaar bent met het bewerken, dan kan je het bewerken van de kaartlaag uitzetten door nog een keer op het potloodje te klikken (2) of rechtermuisknop.
 
-c. Sla de kaartlaag vervolgens op (zie 3 Kaartlagen). De onderzoekslocatie slaan wij op onder het mapje ‘Shape’ in het ‘GIS’-mapje en krijgt de naam ‘onderzoekslocatie’ of ‘projectlocatie’.
+c. Sla de kaartlaag vervolgens op (zie [3 KAARTLAGEN]({{< ref "/manual/3KAARTLAGEN/_index.md" >}})). De onderzoekslocatie slaan wij op onder het mapje ‘Shape’ in het ‘GIS’-mapje en krijgt de naam ‘onderzoekslocatie’ of ‘projectlocatie’.
 
 </div>
 
 
 
-Voor het aanpassen van de onderzoekslocatie, zie 3.4 Vectorlaag aanpassen
+Voor het aanpassen van de onderzoekslocatie, zie [3.4 Vectorlaag]({{< ref "/manual/3KAARTLAGEN/3.4Vectorlaagaanpassen/_index.md" >}}) aanpassen
 
 
 
