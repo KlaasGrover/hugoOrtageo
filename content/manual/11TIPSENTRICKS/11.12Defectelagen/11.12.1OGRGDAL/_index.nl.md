@@ -16,9 +16,18 @@ weight: 10
 
 ---
 
+Als je een **nieuwe laag** wilt toevoegen van een databestand (raster of vector):
+
+<div style="margin-left: 1em;">
+
+* Ga in de lagenstructuur naar de plek waar je de nieuwe laag wilt toevoegen.
+* Ga naar: Laag > Laag toevoegen > Rasterlaag toevoegen of Vectorlaag toevoegen > kies het bestand 
+</div>
 
 
-Als een laag die verwijst naar een lokaal bestand (downloadbestand) defect is:
+&nbsp;
+
+Als een laag die verwijst naar een lokaal bestand (downloadbestand) **defect** is:
 
 
 

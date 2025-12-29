@@ -20,7 +20,7 @@ weight: 30
 
 
 
-Als een ArcGIS Feature Service of Map Server defect is, moet deze worden vervangen.
+Als een ArcGIS Feature Service of Map Server defect is, moet deze worden vervangen door een nieuwe. Hier zijn de stappen voor het toevoegen van een nieuwe laag en het repareren van een lag dus hetzelfde.
 
 
 

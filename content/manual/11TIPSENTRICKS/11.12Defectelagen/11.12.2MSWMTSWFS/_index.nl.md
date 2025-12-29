@@ -20,9 +20,7 @@ weight: 20
 
 
 
-Als een WMS-, ArcGIS map server/WMTS- of WFS-laag defect is, moet deze worden vervangen door 
-
-een nieuwe.
+Als een WMS-, ArcGIS map server/WMTS- of WFS-laag defect is, moet deze worden vervangen door een nieuwe. Hier zijn de stappen voor het toevoegen van een nieuwe laag en het repareren van een lag dus hetzelfde.
 
 
 
